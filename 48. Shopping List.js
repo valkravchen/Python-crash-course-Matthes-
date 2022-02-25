@@ -1,0 +1,1 @@
+const myList = [['Fetosov', 2], ['Kasatonov', 7], ['Krutov', 9], ['Larionov', 8], ['Makarov', 24]];
